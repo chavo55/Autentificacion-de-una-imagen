@@ -1,5 +1,5 @@
 # Autentificacion-de-una-imagen
-Se muestran versiones por cada revisón llevada a cabo con el asesor y con su respectiva fecha respectiva llevada acabo.
+Se muestran versiones por cada revisón llevada a cabo con el asesor y con su respectiva fecha.
 
 Version_1  19 de abril de 2023
 Versión_2  24 de abril de 2023
