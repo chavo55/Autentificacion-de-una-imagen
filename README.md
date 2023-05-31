@@ -1,9 +1,22 @@
-# Autentificación-de-una-imagen
-Se muestran versiones por cada revisión llevada a cabo con el asesor y con su respectiva fecha.
+# Seinario-de-Proyectos
+# Proyecto-de-investigacion
+Trabajo de investigación para la materia Seminario de Proyectos III del 4to semestre en la Maestría en Ciencia de Datos e Información del Infotec.
+Tema: Autentificación-de-una-imagen.
 
-Version_1  19 de abril de 2023
-Versión_2  24 de abril de 2023
-Versión_3  1 de mayo de 2023
-Versión_4  6 de mayo de 2023
-Versión_5  9 de mayo de 2023
-Versión_6  16 de mayo de 2023
+Alumno: Jose Florentino Chavira Sanchez
+
+Correo: jofocha2004@gmail.com
+Revisores:
+
+           Revisor 1: Dr. Edgar Gonzalez Fernadez
+
+           Revisor 2: Sin asignar
+
+Entregables:
+           Trabajo escrito
+
+           Jupyter notebook con el análisis exploratorio de los datos y el primer modelo aplicado.
+
+           Presentación del proyecto.
+
+
