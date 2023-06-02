@@ -16,7 +16,7 @@ Entregables:
            
            Trabajo escrito (versión más reciente en PDF)
            
-           Presentación inicial del trabajo (primera entrega, antes de retroalimentación de los revisores)
+           [Presentación inicial del trabajo (primera entrega, antes de retroalimentación de los revisores]
            (https://www.youtube.com/watch?v=ZoVfP0hxsqM)
            
            Presentación del trabajo corregido (tercera entrega, después de retroalimentación de los asesores)
