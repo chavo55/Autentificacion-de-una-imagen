@@ -1,9 +1,9 @@
 # Seinario-de-Proyectos
-# Proyecto-de-investigacion
+# Proyecto-de-investigación
 Trabajo de investigación para la materia Seminario de Proyectos III del 4to semestre en la Maestría en Ciencia de Datos e Información del Infotec.
 Tema: Autentificación-de-una-imagen.
 
-Alumno: Jose Florentino Chavira Sanchez
+Alumno: José Florentino Chavira Sánchez
 
 Correo: jofocha2004@gmail.com
 Revisores:
