@@ -8,7 +8,7 @@ Alumno: Jose Florentino Chavira Sanchez
 Correo: jofocha2004@gmail.com
 Revisores:
 
-           Revisor 1: Dr. Edgar Gonzalez Fernadez
+           Revisor 1: Dr. Edgar González Fernádez
 
            Revisor 2: Sin asignar
 
