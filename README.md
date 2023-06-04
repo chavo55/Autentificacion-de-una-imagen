@@ -20,4 +20,5 @@ Entregables:
            [https://www.youtube.com/watch?v=ZoVfP0hxsqM]
            
            Presentación del trabajo corregido (tercera entrega, después de retroalimentación de los asesores)
+           [https://www.youtube.com/watch?v=wiYmFOjZDFQ]
 
