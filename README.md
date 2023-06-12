@@ -15,6 +15,7 @@ Revisores:
 Entregables:
            
            Trabajo escrito (versión más reciente en PDF)
+           [https://github.com/seminario-proyectos-infotec/Unpinned7166/blob/main/Trabajo%20Escrito/Tesis%20MCDI.pdf]
            
            Presentación inicial del trabajo -primera entrega, antes de retroalimentación de los revisores
            [https://www.youtube.com/watch?v=ZoVfP0hxsqM]
